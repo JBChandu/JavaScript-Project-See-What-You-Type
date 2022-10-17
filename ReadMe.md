@@ -12,8 +12,8 @@
 - A Simple DOM Manipulation practice to see what you type inside input TextArea.
 
 
-**Live Link :** [Deployed Link](https://js-project-seewhatutype.netlify.app/)
+**Live Link :** [Deployed Link](https://js-project-seewhatyoutype.netlify.app/)
 >### Preview :
 
-![Homepage screenshot-1](preview.png)
+![Homepage screenshot-1](preview.png);
 
